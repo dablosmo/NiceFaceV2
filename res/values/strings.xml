@@ -4,5 +4,9 @@
     <string name="app_name">NiceFaceV2</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="logo">Nice Face Logo</string>
+    <string name="button_start_game">Start Game</string>
+    <string name="button_quit_game">Quit Game</string>
+    <string name="title_activity_start_game">StartGameActivity</string>
 
 </resources>

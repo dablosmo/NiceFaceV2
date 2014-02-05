@@ -22,6 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.nicefacev2.StartGameActivity"
+            android:label="@string/title_activity_start_game" >
+        </activity>
     </application>
 
 </manifest>
